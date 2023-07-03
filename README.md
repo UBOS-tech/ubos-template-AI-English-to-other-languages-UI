@@ -20,7 +20,11 @@ English to other languages
   
 </div>
 
-Translates English text into French, Spanish and Japanese.
+Сreating your own customized AI translator app has never been easier.
+
+Powered by the ChatGPT API, this app template is built with the latest AI technology to deliver unmatched translation accuracy and speed. You can trust it to translate any language pair, from English to Chinese, Spanish to French, and many more.
+
+With the UBOS.tech low-code/no-code platform, you can quickly and easily customize the app template to suit your specific needs. This means that you can add your branding, choose the languages you want to support, and even include additional features to make the app more user-friendly.
 
 ## Demo
 ![demo](https://github.com/UBOS-tech/ubos-template-AI-English-to-other-languages-NR/assets/41735477/3b7f3813-633d-4db2-a520-6e5f65c8fee1)
